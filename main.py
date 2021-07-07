@@ -1,8 +1,8 @@
-# Baltazar Ortiz
+# Baltazar Ortiz, Manuel Larios
 import os
 from parser import compose_message
 from weather_email import send_message
-from getData import get_weather_data
+from get_data import get_weather_data
 from apscheduler.schedulers.blocking import BlockingScheduler
 from pytz import utc
 
