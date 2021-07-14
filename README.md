@@ -1,3 +1,3 @@
-# Weather
+# Drizzle
 
-App that sends weather text messages to phone daily
+An app that sends weather messages to your inbox daily
